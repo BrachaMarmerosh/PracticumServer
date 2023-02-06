@@ -1,0 +1,17 @@
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\bin\Debug\net6.0\Context.deps.json
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\bin\Debug\net6.0\Context.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\bin\Debug\net6.0\Context.pdb
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.csproj.CopyComplete
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\refint\Context.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.pdb
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\ref\Context.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache

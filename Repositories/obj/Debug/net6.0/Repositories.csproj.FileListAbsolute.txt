@@ -1,0 +1,14 @@
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\bin\Debug\net6.0\Repositories.deps.json
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+Y:\Groups\2\מרמרוש ברכה\ProjectFullStack\Repositories\obj\Debug\net6.0\ref\Repositories.dll
