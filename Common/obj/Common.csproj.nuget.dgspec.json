@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj": {}
+    "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj": {
+    "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj",
+        "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\obj\\",
+        "outputPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

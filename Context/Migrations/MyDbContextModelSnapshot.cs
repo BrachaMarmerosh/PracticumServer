@@ -52,6 +52,10 @@ namespace Context.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("SpouseOrParentTZ")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("StatusUser")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");

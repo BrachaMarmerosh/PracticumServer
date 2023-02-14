@@ -3586,11 +3586,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
+      "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\obj\\",
+      "outputPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3611,8 +3611,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj": {
-              "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj"
+            "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Services\\Services.csproj": {
+              "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Services\\Services.csproj"
             }
           }
         }

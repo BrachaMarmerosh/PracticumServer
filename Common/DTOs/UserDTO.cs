@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -17,5 +17,6 @@ namespace Common.DTOs
         public string HMO { get; set; }
         public int FamilyCode { get; set; }
         public string StatusUser { get; set; }
-    }
+    public string SpouseOrParentTZ { get; set; }
+  }
 }

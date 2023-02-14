@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj": {}
+    "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj": {}
   },
   "projects": {
-    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj": {
+    "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\obj\\",
+        "outputPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

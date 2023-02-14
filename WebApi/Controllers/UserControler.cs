@@ -1,4 +1,5 @@
-﻿using Common.DTOs;
+using AutoMapper;
+using Common.DTOs;
 using Microsoft.AspNetCore.Mvc;
 using Services;
 using WebApi.Models;
@@ -7,58 +8,42 @@ using WebApi.Models;
 
 namespace WebApi.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class UserControler : ControllerBase
+  [Route("api/[controller]")]
+  [ApiController]
+  public class UserControler : ControllerBase
+  {
+
+    private readonly IService<UserDTO> _user;
+    private readonly IMapper _mapper;
+
+    public UserControler(IService<UserDTO> user, IMapper mapper)
     {
-        private readonly IService<UserDTO> _user;
-
-        public UserControler(IService<UserDTO> user)
-        {
-            _user = user;
-        }
-        // GET: api/<UserControler>
-        [HttpGet]
-        public async Task<List<UserDTO>> Get()
-        {
-            return await _user.GetAll();
-        }
-
-        // GET api/<UserControler>/5
-        [HttpGet("{id}")]
-        public async Task<UserDTO> Get(int id)
-        {
-            return await _user.GetById(id);
-        }
-
-        // POST api/<UserControler>
-        [HttpPost]
-        public async Task<UserDTO> Post([FromBody] UserModel postModel)
-        {
-            UserDTO newOne = new UserDTO();
-            newOne.TZ = postModel.TZ;
-            newOne.BornDate = postModel.BornDate;
-            newOne.FirstName = postModel.FirstName;
-            newOne.LastName = postModel.LastName;
-            newOne.Id = postModel.Id;
-            newOne.Gender = postModel.Gender;
-            newOne.HMO = postModel.HMO;
-            newOne.FamilyCode = postModel.FamilyCode;
-            newOne.StatusUser = postModel.StatusUser;
-            return await _user.Add(newOne);
-        }
-
-        //// PUT api/<UserControler>/5
-        //[HttpPut("{id}")]
-        //public void Put(int id, [FromBody] string value)
-        //{
-        //}
-
-        //// DELETE api/<UserControler>/5
-        //[HttpDelete("{id}")]
-        //public void Delete(int id)
-        //{
-        //}
-
+      _user = user;
+      _mapper = mapper;
     }
+    // GET: api/<UserControler>
+    [HttpGet]
+    public async Task<List<UserDTO>> Get()
+    {
+      return await _user.GetAll();
+    }
+
+    // GET api/<UserControler>/5
+    [HttpGet("{tz}")]
+    public async Task<UserDTO> GetByTZ(string TZ)
+    {
+      return await _user.GetByTZ(TZ);
+    }
+
+    // POST api/<UserControler>
+    [HttpPost]
+    public async Task<UserDTO> Post([FromBody] UserModel postModel)
+    {
+      var newOne = _mapper.Map<UserDTO>(postModel);
+      return await _user.Add(newOne);
+    }
+
+
+
+  }
 }

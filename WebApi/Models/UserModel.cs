@@ -1,4 +1,4 @@
-﻿namespace WebApi.Models
+namespace WebApi.Models
 {
     public class UserModel
     {
@@ -11,5 +11,6 @@
         public string HMO { get; set; }
         public int FamilyCode { get; set; }
         public string StatusUser { get; set; }
-    }
+    public string SpouseOrParentTZ { get; set; }
+  }
 }

@@ -3640,11 +3640,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj",
+      "projectUniqueName": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj",
+      "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\obj\\",
+      "outputPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3665,14 +3665,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj": {
-              "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj"
+            "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\Common.csproj": {
+              "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Common\\Common.csproj"
             },
-            "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj": {
-              "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj"
+            "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Context\\Context.csproj": {
+              "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Context\\Context.csproj"
             },
-            "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj": {
-              "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj"
+            "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj"
             }
           }
         }

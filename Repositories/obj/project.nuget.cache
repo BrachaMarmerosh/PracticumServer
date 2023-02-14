@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NeFfsu4QhBi4buD6yhxg8bPwSx07zapldWBIHcsi1alSneZT87OlL6857BoTGo3Pi4GymTu1XgnadQhMBiz/Cw==",
+  "dgSpecHash": "ZGblPtE84eZ03Sa8ut0qsUOdc/AfuBk+Zhpybw8xw5N+vva1+TeIipHyCKHQ5uinWzp+nA2gVlpDElU2AiE/Bg==",
   "success": true,
-  "projectFilePath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj",
+  "projectFilePath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

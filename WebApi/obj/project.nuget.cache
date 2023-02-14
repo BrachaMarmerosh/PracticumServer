@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ts2z4qF4NqaYUdNIu3qUxeXniX9TeGWmi60qxH/MJHjDYHRXPaUepE+Jrw9ZFIcafGy+mL0Ye/5hMhCa1+hWIA==",
+  "dgSpecHash": "YFykaTIG45ez7n5CoOYNdajjKh9CbofrKujNLHWS+jrCTP9N89Q959C4PH6phkgGQNVUl7LhoDoZbdDQss7xvw==",
   "success": true,
-  "projectFilePath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
+  "projectFilePath": "D:\\תכנות ו\\dotnet\\Lesson6Project\\PracticumServer\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
