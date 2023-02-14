@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\WebApi\\WebApi.csproj": {}
+    "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Common\\Common.csproj": {
+    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Common\\obj\\",
+        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,29 +64,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Context\\Context.csproj": {
+    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Context\\Context.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj",
         "projectName": "Context",
-        "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Context\\Context.csproj",
-        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Context\\obj\\",
+        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -96,15 +109,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj": {
-                "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj"
+              "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -155,29 +167,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj": {
+    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj",
-        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\obj\\",
+        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -186,7 +212,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -241,29 +266,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Services\\Services.csproj": {
+    "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Services\\Services.csproj",
-        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Services\\obj\\",
+        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -272,21 +311,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Common\\Common.csproj": {
-                "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Common\\Common.csproj"
+              "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj": {
+                "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Common\\Common.csproj"
               },
-              "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Context\\Context.csproj": {
-                "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Context\\Context.csproj"
+              "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj": {
+                "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Context\\Context.csproj"
               },
-              "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj": {
-                "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Repositories\\Repositories.csproj"
+              "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -337,29 +375,43 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\WebApi\\WebApi.csproj": {
+    "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\WebApi\\WebApi.csproj",
+        "projectUniqueName": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\WebApi\\WebApi.csproj",
-        "packagesPath": "C:\\Users\\hitmachut\\.nuget\\packages\\",
-        "outputPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\WebApi\\obj\\",
+        "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\WebApi.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hitmachut\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -368,15 +420,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Services\\Services.csproj": {
-                "projectPath": "Y:\\Groups\\2\\מרמרוש ברכה\\ProjectFullStack\\Services\\Services.csproj"
+              "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj": {
+                "projectPath": "D:\\תכנות ו\\‏‏תיקיה חדשה\\Services\\Services.csproj"
               }
             }
           }
@@ -415,6 +466,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -423,7 +492,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
